@@ -1,9 +1,9 @@
 {
-    "name": "mwillbanks/mw-common",
+    "name": "ApiHawk/mw-common",
     "description": "A module contains various components for ZF3",
     "type": "library",
     "keywords": [
-        "zf2", "MwCommon"
+        "zf3", "MwCommon"
     ],
     "homepage": "https://github.com/mwillbanks/MwCommon",
     "authors": [
