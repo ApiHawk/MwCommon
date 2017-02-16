@@ -1,5 +1,5 @@
 {
-    "name": "ApiHawk/mw-common",
+    "name": "ApiHawk/MwCommon",
     "description": "A module contains various components for ZF3",
     "type": "library",
     "keywords": [
