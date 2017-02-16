@@ -1,6 +1,6 @@
 {
     "name": "mwillbanks/mw-common",
-    "description": "A module contains various components for ZF2",
+    "description": "A module contains various components for ZF3",
     "type": "library",
     "keywords": [
         "zf2", "MwCommon"
@@ -21,22 +21,8 @@
             "./"
         ]
     },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "http://packages.zendframework.com/"
-        }
-    ],
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zend-filter": "2.*",
-        "zendframework/zend-i18n": "2.*",
-        "zendframework/zend-loader": "2.*",
-        "zendframework/zend-soap": "2.*",
-        "zendframework/zend-validator": "2.*",
-        "zendframework/zend-view": "2.*"
-    },
-    "require-dev": {
-        "zendframework/zendframework": "2.*"
+        "zendframework/zendframework": "^3.0"
     }
 }
